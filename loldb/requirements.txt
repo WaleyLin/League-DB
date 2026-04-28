@@ -1,0 +1,7 @@
+# loldb uses only Python standard library modules:
+#   sqlite3   — built into Python 3.x
+#   pathlib   — built into Python 3.x
+#   random    — built into Python 3.x
+#
+# No pip install required.
+# Python 3.8+ is all you need.
